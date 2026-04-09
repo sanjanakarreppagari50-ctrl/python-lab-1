@@ -1,0 +1,35 @@
+Number Comparison & Grading (if-elif)
+Largest Number-
+
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+
+if a > b:
+    print("a is greater")
+elif b > a:
+    print("b is greater")
+else:
+    print("Both are equal")
+
+output:-
+Enter first number: 56
+Enter second number: 78
+b is greater
+
+Grading System
+
+marks = int(input("Enter marks: "))
+
+if marks >= 90:
+    print("Grade A")
+elif marks >= 75:
+    print("Grade B")
+elif marks >= 50:
+    print("Grade C")
+else:
+    print("Fail")
+
+output:-
+Enter marks: 89
+Grade B
+

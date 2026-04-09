@@ -1,0 +1,33 @@
+input 
+
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+
+print("Name:", name)
+print("Age:", age)
+print(f"{name} is {age} years old")
+
+output
+ =====
+Enter your name: tejshwini.v.m
+Enter your age: 19
+Name: tejshwini.v.m
+Age: 19
+tejshwini.v.m is 19 years old
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

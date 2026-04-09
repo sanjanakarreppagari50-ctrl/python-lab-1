@@ -1,0 +1,9 @@
+input 
+
+r = float(input("Enter radius: "))
+area = 3.14 * r * r
+print("Area =", area)
+
+output
+Enter radius: 3
+Area = 28.259999999999998
