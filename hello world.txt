@@ -1,0 +1,7 @@
+input 
+
+print("Hello, World!")
+
+output
+
+Hello, World!
